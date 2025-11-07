@@ -55,7 +55,7 @@ header .container {
 .hero {
     padding: 80px 0;
     background-color: hsl(0, 0%, 100%);
-    background-image: url('images/bg-curve-desktop.svg');
+    background-image: url('Images/bg-curve-desktop.svg');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100%;
@@ -443,7 +443,7 @@ footer {
     
     .hero {
         padding: 100px 0 60px 0;
-        background-image: url('images/bg-curve-mobile.svg');
+        background-image: url('Images/bg-curve-mobile.svg');
     }
     
     .hero .container {
